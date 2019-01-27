@@ -1,0 +1,8 @@
+.deck-container{
+width: 99%;
+}
+
+.deck {
+  display: flex;
+  flex-wrap: wrap;
+}
